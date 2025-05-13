@@ -13,7 +13,7 @@ body {
 }
 
 
-.header {
+header {
 	width: 100%;
 	display: flex;
 	justify-content: center;
@@ -21,6 +21,7 @@ body {
 	height: 80px;
 	text-align: center;
 	background-color: #011e29;
+	padding: 10px;
 	color: white;
 }
 
@@ -47,6 +48,7 @@ ul {
 	padding: 12px;
 	margin: 0 12px;
 	border-radius: 10px;
+	text-align: center;
 }
 
 .pictorial-news-section h3 {
